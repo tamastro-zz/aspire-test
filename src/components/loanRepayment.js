@@ -12,7 +12,7 @@ const LoanRepayment = (props) => {
                 <th>Loan</th>
                 <th>Amount</th>
                 <th>Status</th>
-                <th>Repay</th>
+                <th>Repayment</th>
               </tr>
             </thead>
             <tbody>

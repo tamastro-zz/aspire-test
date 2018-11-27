@@ -1,0 +1,533 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loan Repayment Component Snapshot Test should match snapshot correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <h3
+          class="ui header"
+        >
+          You Dont Have A Loan
+        </h3>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <h3
+        class="ui header"
+      >
+        You Dont Have A Loan
+      </h3>
+    </div>
+  </div>,
+  "debug": [Function],
+  "getAllByAltText": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllBySelectText": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getAllByValue": [Function],
+  "getByAltText": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getBySelectText": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "getByValue": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllBySelectText": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryAllByValue": [Function],
+  "queryByAltText": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryBySelectText": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "queryByValue": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Loan Repayment Component Snapshot Test should render list of loan snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <table
+          class="ui celled table"
+        >
+          <thead>
+            <tr>
+              <th>
+                Loan
+              </th>
+              <th>
+                Amount
+              </th>
+              <th>
+                Status
+              </th>
+              <th>
+                Repayment
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              class=""
+            >
+              <td>
+                Week 
+                1
+                - 
+                05 Dec 2018
+              </td>
+              <td>
+                SGD162.50
+              </td>
+              <td>
+                Unpaid
+              </td>
+              <td>
+                <div
+                  class="ui small positive button"
+                >
+                  Repay
+                </div>
+              </td>
+            </tr>
+            <tr
+              class=""
+            >
+              <td>
+                Week 
+                2
+                - 
+                12 Dec 2018
+              </td>
+              <td>
+                SGD162.50
+              </td>
+              <td>
+                Unpaid
+              </td>
+              <td>
+                <div
+                  class="ui small positive button"
+                >
+                  Repay
+                </div>
+              </td>
+            </tr>
+            <tr
+              class=""
+            >
+              <td>
+                Week 
+                3
+                - 
+                19 Dec 2018
+              </td>
+              <td>
+                SGD162.50
+              </td>
+              <td>
+                Unpaid
+              </td>
+              <td>
+                <div
+                  class="ui small positive button"
+                >
+                  Repay
+                </div>
+              </td>
+            </tr>
+            <tr
+              class=""
+            >
+              <td>
+                Week 
+                4
+                - 
+                26 Dec 2018
+              </td>
+              <td>
+                SGD162.50
+              </td>
+              <td>
+                Unpaid
+              </td>
+              <td>
+                <div
+                  class="ui small positive button"
+                >
+                  Repay
+                </div>
+              </td>
+            </tr>
+            <tr
+              class=""
+            >
+              <td>
+                Week 
+                5
+                - 
+                02 Jan 2019
+              </td>
+              <td>
+                SGD162.50
+              </td>
+              <td>
+                Unpaid
+              </td>
+              <td>
+                <div
+                  class="ui small positive button"
+                >
+                  Repay
+                </div>
+              </td>
+            </tr>
+            <tr
+              class=""
+            >
+              <td>
+                Week 
+                6
+                - 
+                09 Jan 2019
+              </td>
+              <td>
+                SGD162.50
+              </td>
+              <td>
+                Unpaid
+              </td>
+              <td>
+                <div
+                  class="ui small positive button"
+                >
+                  Repay
+                </div>
+              </td>
+            </tr>
+            <tr
+              class=""
+            >
+              <td>
+                Week 
+                7
+                - 
+                16 Jan 2019
+              </td>
+              <td>
+                SGD162.50
+              </td>
+              <td>
+                Unpaid
+              </td>
+              <td>
+                <div
+                  class="ui small positive button"
+                >
+                  Repay
+                </div>
+              </td>
+            </tr>
+            <tr
+              class=""
+            >
+              <td>
+                Week 
+                8
+                - 
+                23 Jan 2019
+              </td>
+              <td>
+                SGD162.50
+              </td>
+              <td>
+                Unpaid
+              </td>
+              <td>
+                <div
+                  class="ui small positive button"
+                >
+                  Repay
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <table
+        class="ui celled table"
+      >
+        <thead>
+          <tr>
+            <th>
+              Loan
+            </th>
+            <th>
+              Amount
+            </th>
+            <th>
+              Status
+            </th>
+            <th>
+              Repayment
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr
+            class=""
+          >
+            <td>
+              Week 
+              1
+              - 
+              05 Dec 2018
+            </td>
+            <td>
+              SGD162.50
+            </td>
+            <td>
+              Unpaid
+            </td>
+            <td>
+              <div
+                class="ui small positive button"
+              >
+                Repay
+              </div>
+            </td>
+          </tr>
+          <tr
+            class=""
+          >
+            <td>
+              Week 
+              2
+              - 
+              12 Dec 2018
+            </td>
+            <td>
+              SGD162.50
+            </td>
+            <td>
+              Unpaid
+            </td>
+            <td>
+              <div
+                class="ui small positive button"
+              >
+                Repay
+              </div>
+            </td>
+          </tr>
+          <tr
+            class=""
+          >
+            <td>
+              Week 
+              3
+              - 
+              19 Dec 2018
+            </td>
+            <td>
+              SGD162.50
+            </td>
+            <td>
+              Unpaid
+            </td>
+            <td>
+              <div
+                class="ui small positive button"
+              >
+                Repay
+              </div>
+            </td>
+          </tr>
+          <tr
+            class=""
+          >
+            <td>
+              Week 
+              4
+              - 
+              26 Dec 2018
+            </td>
+            <td>
+              SGD162.50
+            </td>
+            <td>
+              Unpaid
+            </td>
+            <td>
+              <div
+                class="ui small positive button"
+              >
+                Repay
+              </div>
+            </td>
+          </tr>
+          <tr
+            class=""
+          >
+            <td>
+              Week 
+              5
+              - 
+              02 Jan 2019
+            </td>
+            <td>
+              SGD162.50
+            </td>
+            <td>
+              Unpaid
+            </td>
+            <td>
+              <div
+                class="ui small positive button"
+              >
+                Repay
+              </div>
+            </td>
+          </tr>
+          <tr
+            class=""
+          >
+            <td>
+              Week 
+              6
+              - 
+              09 Jan 2019
+            </td>
+            <td>
+              SGD162.50
+            </td>
+            <td>
+              Unpaid
+            </td>
+            <td>
+              <div
+                class="ui small positive button"
+              >
+                Repay
+              </div>
+            </td>
+          </tr>
+          <tr
+            class=""
+          >
+            <td>
+              Week 
+              7
+              - 
+              16 Jan 2019
+            </td>
+            <td>
+              SGD162.50
+            </td>
+            <td>
+              Unpaid
+            </td>
+            <td>
+              <div
+                class="ui small positive button"
+              >
+                Repay
+              </div>
+            </td>
+          </tr>
+          <tr
+            class=""
+          >
+            <td>
+              Week 
+              8
+              - 
+              23 Jan 2019
+            </td>
+            <td>
+              SGD162.50
+            </td>
+            <td>
+              Unpaid
+            </td>
+            <td>
+              <div
+                class="ui small positive button"
+              >
+                Repay
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>,
+  "debug": [Function],
+  "getAllByAltText": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllBySelectText": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getAllByValue": [Function],
+  "getByAltText": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getBySelectText": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "getByValue": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllBySelectText": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryAllByValue": [Function],
+  "queryByAltText": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryBySelectText": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "queryByValue": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

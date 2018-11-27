@@ -1,0 +1,244 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loan Submission Component Test should match snapshot correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          class="row"
+        >
+          <div
+            class="ui form"
+          >
+            <div
+              class="field"
+            >
+              <div
+                class="two fields"
+              >
+                <div
+                  class="field"
+                >
+                  <label>
+                    Loan Amount
+                  </label>
+                  <input
+                    name="amount"
+                    placeholder="Amounts"
+                    type="number"
+                    value="1000"
+                  />
+                </div>
+                <div
+                  class="field"
+                >
+                  <label>
+                    Loan Term
+                  </label>
+                  <select>
+                    <option
+                      value="1"
+                    >
+                      1 Month
+                    </option>
+                    <option
+                      value="2"
+                    >
+                      2 Months
+                    </option>
+                  </select>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="row"
+        >
+          <div
+            class="ui segment"
+          >
+            <div
+              class="ui two column very relaxed grid"
+            >
+              <div
+                class="column"
+              >
+                Fees would start at S$150.00 per month
+              </div>
+              <div
+                class="column"
+              >
+                <p>
+                  This puts my weekly repayment at 
+                  SGD162.50
+                </p>
+                <p>
+                  and brings the total outstanding to 
+                  SGD1,300.00
+                </p>
+              </div>
+            </div>
+            <div
+              class="ui vertical divider"
+            >
+              So
+            </div>
+          </div>
+        </div>
+        <div
+          class="ui hidden divider"
+        />
+        <div
+          class="row"
+        >
+          <button
+            class="ui disabled button"
+          >
+            Apply
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="row"
+      >
+        <div
+          class="ui form"
+        >
+          <div
+            class="field"
+          >
+            <div
+              class="two fields"
+            >
+              <div
+                class="field"
+              >
+                <label>
+                  Loan Amount
+                </label>
+                <input
+                  name="amount"
+                  placeholder="Amounts"
+                  type="number"
+                  value="1000"
+                />
+              </div>
+              <div
+                class="field"
+              >
+                <label>
+                  Loan Term
+                </label>
+                <select>
+                  <option
+                    value="1"
+                  >
+                    1 Month
+                  </option>
+                  <option
+                    value="2"
+                  >
+                    2 Months
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="ui segment"
+        >
+          <div
+            class="ui two column very relaxed grid"
+          >
+            <div
+              class="column"
+            >
+              Fees would start at S$150.00 per month
+            </div>
+            <div
+              class="column"
+            >
+              <p>
+                This puts my weekly repayment at 
+                SGD162.50
+              </p>
+              <p>
+                and brings the total outstanding to 
+                SGD1,300.00
+              </p>
+            </div>
+          </div>
+          <div
+            class="ui vertical divider"
+          >
+            So
+          </div>
+        </div>
+      </div>
+      <div
+        class="ui hidden divider"
+      />
+      <div
+        class="row"
+      >
+        <button
+          class="ui disabled button"
+        >
+          Apply
+        </button>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "getAllByAltText": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllBySelectText": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getAllByValue": [Function],
+  "getByAltText": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getBySelectText": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "getByValue": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllBySelectText": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryAllByValue": [Function],
+  "queryByAltText": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryBySelectText": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "queryByValue": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
